@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Nayanjyoti Kalita
+Hi there, I'm Nayanjyoti Kalita! 👋
+
+- 👋 Hi, I’m 
 - 👀 I’m interested in Codeing
 - 🌱 I’m currently learning AWS, React JS and Laravel
 - 💞️ I’m looking to collaborate on ...
